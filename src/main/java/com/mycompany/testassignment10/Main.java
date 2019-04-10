@@ -10,7 +10,8 @@ package com.mycompany.testassignment10;
  * @author Hallur
  */
 public class Main {
-    wrongMethod(){
     
+    public void correctMethod(){
+        System.out.println("hey");
     }
 }
